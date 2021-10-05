@@ -9,4 +9,4 @@
 
 
 
-<img src="img/index.jpg"> width=200px;
+<img src="img/index.jpg"> width=200px
