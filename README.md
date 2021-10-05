@@ -1,3 +1,3 @@
 # Prueba con Git y GitHub
 Prueba con git y github
-<img src="img/index.jpg"> width=200px
+<img src="Documentos/pruebas_con_git/pruebagit/index.png"> width=200px
